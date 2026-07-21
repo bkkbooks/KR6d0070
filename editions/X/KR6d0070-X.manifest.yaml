@@ -19,7 +19,7 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6d0070_000-X.yaml, hash: 'sha256:f847d62e729ccbaf78c165e35e66ccef466f6491321b47f26d9d7be31c6c1cd7'}
+  - {seq: 0, filename: KR6d0070_000-X.yaml, hash: 'sha256:a3cee614876f82c636b0524d154cb653515434d3d0dd6aaf9c384a8a4d70e9ff'}
   - {seq: 1, filename: KR6d0070_001-X.yaml, hash: 'sha256:b907760aaae264b699834b08199e821da0a532877f430c2f36e9792d88ce2853'}
   - {seq: 2, filename: KR6d0070_002-X.yaml, hash: 'sha256:b50f8b8c5d48f14d51005e99966f54e6cd414d21447184f711510ccec9f8ce34'}
   - {seq: 3, filename: KR6d0070_003-X.yaml, hash: 'sha256:d2c8f8221c1e16c795f2248acc9c4ef15514e565f3c715cb72c076432ef62545'}
@@ -29,7 +29,7 @@ assets:
   - {seq: 7, filename: KR6d0070_007-X.yaml, hash: 'sha256:f18d46dc0d945f1e2d55fbf29e1d410dd1f0ef9f4728a46d3796bdbff90df46f'}
   - {seq: 8, filename: KR6d0070_008-X.yaml, hash: 'sha256:34e36c8659b9b28a0051b955ecfdeaead2c8148c7bd223b0788759b171857258'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6d0070_000-X.markers.yaml, hash: 'sha256:367a930851e51c4920c98e817bef7f8df644a99e24dd697f45140bf81f0d20f1'}
+  - {seq: 0, role: markers, filename: assets/KR6d0070_000-X.markers.yaml, hash: 'sha256:83ab2623737ef7b59ab6349d023c63fc1bc8ef75ad8e5726aa0ecd2810983722'}
   - {seq: 1, role: markers, filename: assets/KR6d0070_001-X.markers.yaml, hash: 'sha256:98f998e22d6829b7860dd3f4d28017dbe177c35d78e0f78f9d2bca35ba35b8cb'}
   - {seq: 2, role: markers, filename: assets/KR6d0070_002-X.markers.yaml, hash: 'sha256:172456865327a78ea9aa2b5bec3af0b38576354ecaad98ba6233d5230f6db3a1'}
   - {seq: 3, role: markers, filename: assets/KR6d0070_003-X.markers.yaml, hash: 'sha256:e8b031c02ad3fb346323f834933eb8b4a455de03c67c894236a03cff1257a130'}
@@ -43,7 +43,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6d0070_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 604-A 妙法蓮華經句解
@@ -53,7 +53,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6d0070_X_000-mulu-2
     span:
-    - front
+    - body
     - 277
     - 277
   label: 目次
@@ -449,4 +449,4 @@ table_of_contents:
   label: 普賢菩薩勸發品第二十八
   type: mulu
   level: 1
-hash: sha256:23ca6a65bbfa2ea3e20e9566c77a486dcbe16b26a3e2bc248af98a22e2e3720d
+hash: sha256:7268abfad145f53efafc5c171e74366d004f3a32d30e8d5fba8b90387045b887

@@ -21,7 +21,7 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6d0070_000.yaml, hash: 'sha256:715857bb8e681964732055c810021973b86a7cd2cdfd8178ccdce35fc3e4f529'}
+  - {seq: 0, filename: KR6d0070_000.yaml, hash: 'sha256:8ca22735de093e09c0fbbf11233ae78769fd42611b4e90d2a86a012ca5e52802'}
   - {seq: 1, filename: KR6d0070_001.yaml, hash: 'sha256:d49d13940d14c17f85fb95787241ada4625f8dc8996bcbf6cfff7a398e0e058b'}
   - {seq: 2, filename: KR6d0070_002.yaml, hash: 'sha256:78a7c049fe527f13681094face9c1bf9508ff543bb4f822175f2a80a31e707cb'}
   - {seq: 3, filename: KR6d0070_003.yaml, hash: 'sha256:c71c7749b9e4da73b05962829a9ea3e31d9ab3fed605326b99a8124c39f0e5e2'}
@@ -31,7 +31,7 @@ assets:
   - {seq: 7, filename: KR6d0070_007.yaml, hash: 'sha256:a389b373cd891794a9bfdc24fe4d2cdd0d87fb2aa1452b097017dc36212c0988'}
   - {seq: 8, filename: KR6d0070_008.yaml, hash: 'sha256:8c2090e417354b951479352ff7c0a8ee701faf331f17ed85e396b3f8f87037f2'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6d0070_000.markers.yaml, hash: 'sha256:f1aec875761f7d11a2229b5ab5923d27b8c03b402ac278310e490f8fb7fc8d54'}
+  - {seq: 0, role: markers, filename: assets/KR6d0070_000.markers.yaml, hash: 'sha256:64f62909892e65901f815c33a457b46316f2eec92889fadd26f489ecc0c05bf0'}
   - {seq: 1, role: markers, filename: assets/KR6d0070_001.markers.yaml, hash: 'sha256:1f31e9ff9fa8c6cfe5f53d02f1ee87580d852ebd29be81c66db2756040d43ed3'}
   - {seq: 2, role: markers, filename: assets/KR6d0070_002.markers.yaml, hash: 'sha256:350b00c955327cf1f8122054bf6b0233e8335ca85cd10db0a753371a9d596f95'}
   - {seq: 3, role: markers, filename: assets/KR6d0070_003.markers.yaml, hash: 'sha256:1abf1f319bd9748ab9b7734de69da7d9c019fd7a94b391c0940369a902339bb2'}
@@ -45,7 +45,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6d0070_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 604-A 妙法蓮華經句解
@@ -55,7 +55,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6d0070_X_000-mulu-2
     span:
-    - front
+    - body
     - 277
     - 277
   label: 目次
@@ -451,7 +451,7 @@ table_of_contents:
   label: 普賢菩薩勸發品第二十八
   type: mulu
   level: 1
-hash: sha256:4d36534a1b4c07fe3a2ae5f85f89d89a3b96d2528400a6a924b9244a75746d4a
+hash: sha256:836b473b38e7cf22000810ba9112a3e604a192b767eb085df4816369b37183ab
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
